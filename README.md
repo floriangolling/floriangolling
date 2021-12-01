@@ -1,4 +1,4 @@
-<h3 align="center">Epitech student from strasbourg</h3>
+<h3 align="center">Epitech student from Strasbourg</h3>
 
 How to reach me **florian.golling@epitech.eu**
 
